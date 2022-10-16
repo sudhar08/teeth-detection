@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEETH DETECTION</string>
+
+    <string name="tv_take_photo">Take photo</string>
+    <string name="tv_description">Select a preset image or take a new photo</string>
+    <string name="tv_placeholder">image view</string>
+</resources>
